@@ -1,0 +1,19 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "this my first sample project",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "node -r esm src/main.js"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "C.Patterson",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
